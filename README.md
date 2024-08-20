@@ -64,7 +64,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, motores DC, driver de motor (L298N), sensores de linha infravermelhos, rodas.
    - **Descrição:** O robô segue uma linha preta no chão utilizando sensores infravermelhos, com o Arduino controlando os motores para manter o robô na linha.
 
-5. **Jardim Automatizado**
+5. [**Jardim Automatizado**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Controle_remoto_infravermelho.md)
    - **Componentes:** Arduino Uno, sensor de umidade do solo, bomba de água, relé.
    - **Descrição:** Monitora a umidade do solo e aciona a irrigação automaticamente quando necessário.
 
