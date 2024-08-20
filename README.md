@@ -56,7 +56,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de temperatura e umidade (DHT11), sensor de pressão atmosférica (BMP180), display LCD.
    - **Descrição:** Mede a temperatura, umidade e pressão atmosférica, exibindo os dados em um display LCD. Pode registrar dados em um cartão SD ou enviar para uma aplicação web.
 
-3. **Controle de Iluminação Automática**
+3. [**Controle de Iluminação Automática**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/controle_iluminacao.md)
    - **Componentes:** Arduino Uno, sensor de luz LDR, relé, lâmpada.
    - **Descrição:** Controla a iluminação com base na quantidade de luz ambiente, acionando o relé para ligar a lâmpada quando necessário.
 
