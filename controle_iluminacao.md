@@ -47,7 +47,7 @@
 
 - **Integração com Aplicativos de Smartphones** 
 
-## Componentes Adicionais Necessários:
+### Componentes Adicionais Necessários:
 
 - **Módulo Wi-Fi (ESP8266 ou ESP32)**:
   - **Função**: Permite ao Arduino se conectar a uma rede Wi-Fi para comunicação com um servidor web ou diretamente com um aplicativo de smartphone.
@@ -57,7 +57,7 @@
   - **Função**: Interface de usuário para monitorar a intensidade da luz ambiente e controlar a lâmpada remotamente. Pode ser desenvolvido usando plataformas como Blynk, App Inventor, ou aplicativos personalizados.
   - **Conexões**: Comunicação com o Arduino via Wi-Fi, utilizando um servidor local ou uma plataforma de nuvem.
 
-## Descrição do Funcionamento:
+### Descrição do Funcionamento:
 
 - **Configuração da Conexão Wi-Fi**:
   - O Arduino, equipado com um módulo Wi-Fi, conecta-se a uma rede Wi-Fi configurada previamente. Essa conexão permite que o Arduino se comunique com um servidor web, plataforma em nuvem ou diretamente com o aplicativo de smartphone.
