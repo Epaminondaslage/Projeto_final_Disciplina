@@ -52,7 +52,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de movimento PIR, buzina, LEDs, resistores.
    - **Descrição:** O sensor PIR detecta movimento no ambiente e aciona a buzina e os LEDs. Pode enviar notificações via SMS usando módulos GSM.
 
-2. [**Estação Meteorológica**)]https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Estacao_meteorologica)
+2. [**Estação Meteorológica**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Estacao_meteorologica)
    - **Componentes:** Arduino Uno, sensor de temperatura e umidade (DHT11), sensor de pressão atmosférica (BMP180), display LCD.
    - **Descrição:** Mede a temperatura, umidade e pressão atmosférica, exibindo os dados em um display LCD. Pode registrar dados em um cartão SD ou enviar para uma aplicação web.
 
