@@ -72,7 +72,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de temperatura (LM35), display de 7 segmentos ou LCD, buzina.
    - **Descrição:** Mede a temperatura ambiente e aciona um alerta se a temperatura ultrapassar um limite pré-definido.
 
-7. **Relógio com Display LCD**
+7. [**Relógio com Display LCD/OLED**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Relogio_com_display.md)
    - **Componentes:** Arduino Uno, módulo RTC (Real Time Clock), display LCD.
    - **Descrição:** Exibe a hora e a data atualizadas, podendo incluir alarmes ou lembretes.
 
