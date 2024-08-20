@@ -48,7 +48,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
 
 ## Temas Sugeridos para Projetos
 
-1. **Sistema de Alarme com Sensor de Movimento**
+1. [**Sistema de Alarme com Sensor de Movimento**](/Sistema de Alarme com Sensor de Movimento.md)
    - **Componentes:** Arduino Uno, sensor de movimento PIR, buzina, LEDs, resistores.
    - **Descrição:** O sensor PIR detecta movimento no ambiente e aciona a buzina e os LEDs. Pode enviar notificações via SMS usando módulos GSM.
 
