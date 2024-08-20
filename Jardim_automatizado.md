@@ -44,7 +44,7 @@
 
 ### 5. Sensores Utilizados no Projeto de Jardim Automatizado
 
-## 5.1. Sensor de Umidade do Solo
+### 5.1. Sensor de Umidade do Solo
 
 ### Descrição Geral
 - **Tipo**: Sensor analógico de umidade do solo.
@@ -65,7 +65,7 @@
 - **Oxidação**: As sondas de metal estão sujeitas a oxidação com o tempo, especialmente em solos úmidos. Sensores de melhor qualidade, como aqueles com revestimento de ouro ou aço inoxidável, são preferíveis para aumentar a durabilidade.
 - **Posicionamento**: As sondas devem ser inseridas consistentemente na mesma profundidade para garantir leituras precisas. O sensor deve estar bem posicionado para evitar contato com pedras ou outros obstáculos que possam afetar a medição.
 
-## 5.2. Sensor de Temperatura e Umidade (Opcional para Expansão)
+### 5.2. Sensor de Temperatura e Umidade (Opcional para Expansão)
 
 ### Descrição Geral
 - **Tipo**: Sensor digital de temperatura e umidade.
@@ -92,7 +92,7 @@
 - **Precisão**: O DHT22 oferece maior precisão e faixa de operação mais ampla em comparação ao DHT11, sendo ideal para aplicações que requerem medições mais precisas.
 - **Intervalo de Leitura**: Deve-se evitar leituras muito frequentes (geralmente, uma leitura a cada 2 segundos) para garantir a precisão dos dados.
 
-## 5.3. Sensor de Luz (LDR) (Opcional para Expansão)
+### 5.3. Sensor de Luz (LDR) (Opcional para Expansão)
 
 ### Descrição Geral
 - **Tipo**: Sensor analógico de luminosidade (LDR - Light Dependent Resistor).
