@@ -84,7 +84,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de distância ultrassônico (HC-SR04), display LCD.
    - **Descrição:** Mede a distância até objetos e exibe o valor no display LCD. Aplicável em sistemas de estacionamento assistido ou medição de níveis de líquido.
 
-10. **Sistema de Automação Residencial**
+10. [**Sistema de Automação Residencial**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Automacao_residencial.md)
     - **Componentes:** Arduino Uno, módulos de relé, sensores diversos (temperatura, movimento, luz), interface de controle (smartphone ou computador).
     - **Descrição:** Monitora diferentes parâmetros na casa e aciona dispositivos conectados aos relés, podendo ser controlado remotamente via smartphone ou computador.
 
