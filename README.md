@@ -60,7 +60,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de luz LDR, relé, lâmpada.
    - **Descrição:** Controla a iluminação com base na quantidade de luz ambiente, acionando o relé para ligar a lâmpada quando necessário.
 
-4. **Robô Seguidor de Linha**
+4. [**Robô Seguidor de Linha**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/tree/main#readme)
    - **Componentes:** Arduino Uno, motores DC, driver de motor (L298N), sensores de linha infravermelhos, rodas.
    - **Descrição:** O robô segue uma linha preta no chão utilizando sensores infravermelhos, com o Arduino controlando os motores para manter o robô na linha.
 
