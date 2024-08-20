@@ -68,7 +68,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, sensor de umidade do solo, bomba de água, relé.
    - **Descrição:** Monitora a umidade do solo e aciona a irrigação automaticamente quando necessário.
 
-6. **Termômetro Digital com Alerta**
+6. [**Termômetro Digital com Alerta**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Controle_remoto_infravermelho.md)
    - **Componentes:** Arduino Uno, sensor de temperatura (LM35), display de 7 segmentos ou LCD, buzina.
    - **Descrição:** Mede a temperatura ambiente e aciona um alerta se a temperatura ultrapassar um limite pré-definido.
 
