@@ -44,7 +44,11 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - Apresentar o projeto para a turma e o professor, explicando o funcionamento, as dificuldades enfrentadas e as soluções encontradas.
    - Demonstrar o projeto em funcionamento, destacando as principais características e benefícios da solução desenvolvida.
 
+### Cronograma de atividades
 
+A imagem abaixo mostra um diagrama de Gantt, uma ferramenta visual essencial para o gerenciamento de projetos. Este diagrama apresenta uma linha do tempo organizada, onde cada tarefa do projeto é representada como uma barra horizontal, indicando sua duração e o período em que será executada.
+
+<img src="https://github.com/Epaminondaslage/Kit-Arduino/blob/main/img/gantt.jpg" alt="Diagrama de gantt" width="600">
 
 
 ### Documentação do Projeto
