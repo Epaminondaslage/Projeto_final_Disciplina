@@ -1,3 +1,5 @@
+# Sistema de Alarme com Sensor de Movimento
+
 ### Componentes Necessários:
 
 - **Arduino Uno**: Controlador principal que processa os sinais do sensor PIR e aciona os dispositivos de alerta (buzina e LEDs).
