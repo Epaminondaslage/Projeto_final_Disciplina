@@ -80,7 +80,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, receptor de infravermelho, controle remoto infravermelho.
    - **Descrição:** Decodifica sinais de um controle remoto e executa ações como ligar/desligar LEDs ou outros dispositivos.
 
-9. **Medidor de Distância Ultrassônico**
+9. **Medidor de Distância Ultrassônico: Volume de água em caixa d'água**
    - **Componentes:** Arduino Uno, sensor de distância ultrassônico (HC-SR04), display LCD.
    - **Descrição:** Mede a distância até objetos e exibe o valor no display LCD. Aplicável em sistemas de estacionamento assistido ou medição de níveis de líquido.
 
