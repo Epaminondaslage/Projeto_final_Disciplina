@@ -76,7 +76,7 @@ O objetivo principal do projeto de final de disciplina é permitir que os alunos
    - **Componentes:** Arduino Uno, módulo RTC (Real Time Clock), display LCD.
    - **Descrição:** Exibe a hora e a data atualizadas, podendo incluir alarmes ou lembretes.
 
-8. **Controle Remoto Infravermelho**
+8. [**Controle Remoto Infravermelho**](https://github.com/Epaminondaslage/Projeto_final_Disciplina/blob/main/Controle_remoto_infravermelho.md)
    - **Componentes:** Arduino Uno, receptor de infravermelho, controle remoto infravermelho.
    - **Descrição:** Decodifica sinais de um controle remoto e executa ações como ligar/desligar LEDs ou outros dispositivos.
 
