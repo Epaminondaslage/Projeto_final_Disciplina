@@ -7,11 +7,12 @@
 
 ## Projeto com Arduino
 
-A disciplina de informática aplicada no primeiro ano do curso técnico em eletrotécnica tem como objetivo principal introduzir os estudantes ao uso de ferramentas computacionais e tecnológicas essenciais para a prática da eletrotécnica. Essa disciplina serve como base para o desenvolvimento de habilidades que serão aplicadas ao longo do curso e na futura carreira profissional.
+A disciplina de Informática Aplicada no primeiro ano do Curso Técnico de Eletrotécnica tem como objetivo principal introduzir os estudantes ao uso de ferramentas computacionais e tecnológicas essenciais para a prática da eletrotécnica. Essa disciplina serve como base para o desenvolvimento de habilidades que serão aplicadas ao longo do curso e na futura carreira profissional.
 
 No final da disciplina de informática aplicada, um dos projetos práticos mais desafiadores que os alunos podem realizar é o desenvolvimento de um projeto utilizando a plataforma Arduino. Esse tipo de projeto integra o conhecimento de programação eletrônica básica e lógica de circuitos, proporcionando uma experiência completa e prática.
 
 ### Objetivo do Projeto
+
 O objetivo principal do projeto de final de disciplina é permitir que os alunos apliquem os conhecimentos adquiridos ao longo da disciplina em um contexto prático, desenvolvendo uma solução real e funcional que envolva o uso do Arduino. Isso pode incluir a automação de um sistema simples, a medição e monitoramento de parâmetros elétricos ou a criação de um dispositivo interativo.
 
 ### Etapas do Projeto
